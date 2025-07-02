@@ -1,0 +1,44 @@
+## === .NET & Visual Studio ===
+
+# Сборка / билды
+bin/
+obj/
+*.exe
+*.dll
+
+# Конфигурации
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+.vscode/settings.json
+.vscode/launch.json
+
+# Mac/Linux/Windows системные файлы
+.DS_Store
+Thumbs.db
+
+# Резервные файлы
+*.bak
+*.tmp
+
+# Git
+*.log
+*.orig
+
+# Конфигурации NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Обновления VS
+.vs/
+_ReSharper*/
