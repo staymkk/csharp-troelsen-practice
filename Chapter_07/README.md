@@ -16,7 +16,7 @@
 
 Пример:
 ```csharp
-int result = SafeDivide(10, 0); // "Ошибка: деление на ноль"
+int result = SafeDivide(10, 0); // "Ошибка: деление на ноль"```
 
 ---
 
@@ -42,10 +42,9 @@ int result = SafeDivide(10, 0); // "Ошибка: деление на ноль"
 
 Пример:
 
-csharp
-Копировать
-Редактировать
-RegisterUser("Аня", 16); // Ошибка: InvalidAgeException
+```csharp
+
+RegisterUser("Аня", 16); // Ошибка: InvalidAgeException```
 
 ---
 
